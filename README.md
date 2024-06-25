@@ -1,5 +1,6 @@
 # Projeto-4-Semestre
-PROJETO 4º Semestre Tecnologia Logística
+**PROJETO 4º Semestre Tecnologia Logística**
+
 ![image](https://github.com/SilveiraEliane/Projeto-4-Semestre/assets/134539033/e3eaa8ea-a465-48e5-b609-c36c075e9a95)
 
 **DESENVOLVEDORES**
@@ -14,6 +15,7 @@ PROJETO 4º Semestre Tecnologia Logística
 
 ![image](https://github.com/SilveiraEliane/Projeto-4-Semestre/assets/134539033/7732ef7b-ed0a-4f08-af9b-60a35cd66661)
 
+**SOLUÇÃO**
 
 ![image](https://github.com/SilveiraEliane/Projeto-4-Semestre/assets/134539033/3079650c-f3ca-4a44-b85c-a4c4c1413423)
 
@@ -49,7 +51,7 @@ PROJETO 4º Semestre Tecnologia Logística
 
 ![image](https://github.com/SilveiraEliane/Projeto-4-Semestre/assets/134539033/ec58a1fa-73b0-451b-8db5-dd6861895aa6)
 
-**VÍDEO DO PORTO DE SANTOS DEITO PELOS DESENVOLVEDORES**
+**VÍDEO DO PORTO DE SANTOS FEITO PELOS DESENVOLVEDORES**
 
 https://github.com/SilveiraEliane/Projeto-4-Semestre/assets/134539033/369e92da-ab73-4c23-9fc8-12bf197283ab
 
