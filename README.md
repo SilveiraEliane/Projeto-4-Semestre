@@ -55,3 +55,9 @@
 
 https://github.com/SilveiraEliane/Projeto-4-Semestre/assets/134539033/369e92da-ab73-4c23-9fc8-12bf197283ab
 
+# Autores
+
+|    Função     | Nome                                  |                                                                                                                                                      LinkedIn                                                                                                                                                       |
+| :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Product Owner  | Eliane |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eliane-silveira-60464027/) 
+|Scrum Master |   Douglas     |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAAD_TK40BxyGwx_zxT8cfrQYhHciZSj0aARA&keywords=douglas%20martins&origin=RICH_QUERY_TYPEAHEAD_HISTORY&position=0&searchId=a32d8ef3-90be-4f3d-9ee3-38ad4bd726fd&sid=w%40c&spellCorrectionEnabled=true)    
