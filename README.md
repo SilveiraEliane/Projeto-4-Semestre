@@ -9,7 +9,8 @@
 
 **O QUE É O PROJETO**
 
-![image](https://github.com/SilveiraEliane/Projeto-4-Semestre/assets/134539033/c3e2a09d-ae3a-426e-a512-f77353fc6c3e)
+![image](https://github.com/SilveiraEliane/Projeto-4-Semestre/assets/134539033/b3386b21-b8d5-4a19-862d-4b1fc6344515)
+
 
 **TECNOLOGIAS UTILIZADAS**
 
@@ -27,31 +28,36 @@
 
 ![image](https://github.com/SilveiraEliane/Projeto-4-Semestre/assets/134539033/bf26244e-6e49-434b-8a4a-c21ea4959665)
 
-**DASHBOARD**
+**DASHBOARD DE ATRACAÇÕES E CARGA MOVIMENTADA**
 
 ![image](https://github.com/SilveiraEliane/Projeto-4-Semestre/assets/134539033/0f4f1170-e543-4547-812f-5a62cedd0aa2)
 
-**INPUT E OUTPUT**
+**INPUTS E OUTPUTS**
 
 ![image](https://github.com/SilveiraEliane/Projeto-4-Semestre/assets/134539033/ba8be474-3f44-4d39-af62-ec96dbe4a1dc)
 
-**RESULTADO ATRAVÉS DO MÉTODO DEA NO EXCEL**
+**MÉTODO DEA NO EXCEL**
 
 ![image](https://github.com/SilveiraEliane/Projeto-4-Semestre/assets/134539033/f89e6db5-3f9c-49ce-a004-8d13f9e208ad)
 
-**RESULTADO ATRAVÉS DO MÉTODO DEA NO RSTUDIO**
+**MÉTODO DEA NO RSTUDIO**
 
 ![image](https://github.com/SilveiraEliane/Projeto-4-Semestre/assets/134539033/16b87033-73c3-467d-a972-d41b55f4f1e6)
 
-**TABELA DOS RESULTADOS**
+**TABELA DE EFICIÊNIA DOS PORTOS**
 
 ![image](https://github.com/SilveiraEliane/Projeto-4-Semestre/assets/134539033/28eb588d-4451-491a-b5a7-ea716b3897b1)
+
+**RESULTADO DO PROJETO**
+
+![image](https://github.com/SilveiraEliane/Projeto-4-Semestre/assets/134539033/8d46c29e-504e-4984-94e1-a801e3cf1c48)
+
 
 **CARTÃO DE APRESENTAÇÃO DOS DESENVOLVEDORES PARA A FEIRA**
 
 ![image](https://github.com/SilveiraEliane/Projeto-4-Semestre/assets/134539033/ec58a1fa-73b0-451b-8db5-dd6861895aa6)
 
-**VÍDEO DO PORTO DE SANTOS FEITO PELOS DESENVOLVEDORES**
+**VÍDEO DO PORTO DE SANTOS COM NAVIO CARREGANDO AÇÚCAR, FEITO PELOS DESENVOLVEDORES**
 
 https://github.com/SilveiraEliane/Projeto-4-Semestre/assets/134539033/369e92da-ab73-4c23-9fc8-12bf197283ab
 
