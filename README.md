@@ -1,5 +1,5 @@
-# Projeto-4-Semestre
-**PROJETO 4º Semestre Tecnologia Logística**
+# Projeto 4º Semestre Tecnologia Logística- Fatec Manhã
+
 
 ![image](https://github.com/SilveiraEliane/Projeto-4-Semestre/assets/134539033/e3eaa8ea-a465-48e5-b609-c36c075e9a95)
 
@@ -53,9 +53,10 @@
 ![image](https://github.com/SilveiraEliane/Projeto-4-Semestre/assets/134539033/8d46c29e-504e-4984-94e1-a801e3cf1c48)
 
 
-**CARTÃO DE APRESENTAÇÃO DOS DESENVOLVEDORES PARA A FEIRA**
+**CARTÃO DE APRESENTAÇÃO DOS DESENVOLVEDORES PARA A FEIRA (QR Code desse github)**
 
-![image](https://github.com/SilveiraEliane/Projeto-4-Semestre/assets/134539033/ec58a1fa-73b0-451b-8db5-dd6861895aa6)
+![Beige And Gold Simple Personal Business Card (1)](https://github.com/SilveiraEliane/Projeto-4-Semestre/assets/134539033/c323b5a0-597e-447c-b5a1-117a774129b4)
+
 
 **VÍDEO DO PORTO DE SANTOS COM NAVIO CARREGANDO AÇÚCAR, FEITO PELOS DESENVOLVEDORES**
 
